@@ -7,7 +7,7 @@
 ### Discord: https://discord.gg/SJBAA592
 ### Google Classroom: https://classroom.google.com/c/MjM0ODYxMDE0NDda?cjc=mbccquqa
 
-Lecturer: **Raimo Pregel**
+Õppejõud: **Raimo Pregel**
 
 <!--
 
