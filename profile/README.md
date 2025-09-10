@@ -1,8 +1,13 @@
 ## Rakenduste Programmeerimine 2025
 
-### Discord: https://discord.gg/SJBAA592
 
+### Zoom: 
+* ##### Neljapäeviti 12:15-15:45
+* ##### Link: https://zoom.us/j/99231418965?pwd=faeWXtlsNeUUjQY3aZDP2MZjW0Oivc.1
+### Discord: https://discord.gg/SJBAA592
 ### Google Classroom: https://classroom.google.com/c/MjM0ODYxMDE0NDda?cjc=mbccquqa
+
+Lecturer: **Raimo Pregel**
 
 <!--
 
